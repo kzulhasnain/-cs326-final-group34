@@ -2,7 +2,7 @@
 
 ## Team Ovierview:  
 Kazi Sadman Zul Hasnain&ensp;&ensp;&ensp;&ensp;&ensp;github profile: kzulhasnain  
-Kazi Zeedan Jul Kawnain&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;github profile:   
+Kazi Zeedan Jul Kawnain&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;github profile: kjulkawnain  
 Baitong Zhao  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp;	 github profile: Zeddie123	  
 Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;github profile: bloguser
 
