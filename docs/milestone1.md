@@ -14,7 +14,7 @@ Personal work data. This is the place where user to check what works they have a
 
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/Screenshot%20(18).png)
 
-
+### Screenshot
 
 ### Part 2: HTML and CSS
 
