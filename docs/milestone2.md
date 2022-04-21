@@ -21,6 +21,14 @@ v) /user/like - users can like a post
 
 ### Screenshot
 
+Screenshot 1:
+
+Screenshot 2:
+
+Screenshot 3:
+
+Screenshot 4:
+
 ### Part 3: Deployment
 
 ### Division of labor
