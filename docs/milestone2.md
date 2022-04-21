@@ -42,6 +42,9 @@ It is the interface of the register page, where users can fill out the email and
 
 ### Part 3: Deployment
 
+heroku link:
+https://dry-spire-84913.herokuapp.com/
+
 ### Division of labor
 
 Kazi Sadman Zul Hasnain&ensp;&ensp;&ensp;&ensp;&ensp;back-end  
