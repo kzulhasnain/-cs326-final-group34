@@ -38,7 +38,6 @@ Screenshot 4: user register page
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/register.png)
 It is the interface of the register page, where users can fill out the email and new passwork following the demonstration.
 
->>>>>>> 69b8120a81b385f66d57f40f06efff3d8f1dc406
 
 
 ### Part 3: Deployment
