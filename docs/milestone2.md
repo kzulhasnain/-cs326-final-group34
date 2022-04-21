@@ -24,7 +24,7 @@ v) /user/like - users can like a post
 Screenshot 1:
 
 Screenshot 2:
-
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/register.png)
 Screenshot 3:
 
 Screenshot 4:
