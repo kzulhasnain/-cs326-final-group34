@@ -22,7 +22,7 @@ v) /user/like - users can like a post
 ### Screenshot
 
 Screenshot 1: user login page
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/Screenshot%20(250).png)
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/login.png)
 
 
 Screenshot 2: post's comments button
