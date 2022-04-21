@@ -45,8 +45,8 @@ It is the interface of the register page, where users can fill out the email and
 
 ### Division of labor
 
-Kazi Sadman Zul Hasnain&ensp;&ensp;&ensp;&ensp;&ensp;github profile: kzulhasnain  
-Kazi Zeedan Jul Kawnain&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;github profile: kjulkawnain  
-Baitong Zhao  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp;	 github profile: Zeddie123   
-Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;github profile: bloguser 
+Kazi Sadman Zul Hasnain&ensp;&ensp;&ensp;&ensp;&ensp;back-end  
+Kazi Zeedan Jul Kawnain&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;back-end  
+Baitong Zhao  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp;front-end   
+Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;front-end
 
