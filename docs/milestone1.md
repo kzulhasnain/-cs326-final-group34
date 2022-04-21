@@ -14,7 +14,7 @@ Personal work data. This is the place where user to check what works they have a
 
 ### Screenshot
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/Screenshot%20(18).png)
-The screenshot(18) is the the interface of the job posting page, where users can insert job related information, including position, time, location, salary, can extra description if it's required. 
+
 
 
 ### Part 2: HTML and CSS
@@ -27,5 +27,5 @@ The screenshot(18) is the the interface of the job posting page, where users can
 
 Kazi Sadman Zul Hasnain&ensp;&ensp;&ensp;&ensp;&ensp;github profile: kzulhasnain  *html/css*  
 Kazi Zeedan Jul Kawnain&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;github profile: kjulkawnain  *html/css*  
-Baitong Zhao  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp;	 github profile: Zeddie123 *wireframes/edit markdownfile*  
-Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;github profile: bloguser *wireframes/edit markdownfile*
+Baitong Zhao  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp;	 github profile: Zeddie123 *wireframes/html*  
+Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;github profile: bloguser *edit markdownfile*
