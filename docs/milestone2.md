@@ -28,11 +28,11 @@ It is the log-in page for users who has already created an  account can insert t
 
 Screenshot 2: post's comments button
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/comment.png)
-
+This is the main page of the application. Below the web page logo lies the boxes with job infomation. Users can click on the "comment" botton to ask questions or give opinions.
 
 Screenshot 3: post's like button
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/like.png)
-This is the main page of the application.
+This is the main page of the application. If the user is interested in the job, he/she can click on the "like" button and apply for the job.
 
 Screenshot 4: user register page
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/register.png)
