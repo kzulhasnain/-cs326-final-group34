@@ -21,21 +21,24 @@ v) /user/like - users can like a post
 
 ### Screenshot
 
-Screenshot 1:
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/register.png)
-It is the interface of the register page, where users can fill out the email and new passwork following the demonstration.
-
-Screenshot 2:
+=======
+Screenshot 1: user login page
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/login.png)
 It is the log-in page for users who has already created an  account can insert the email and password set up in the register page. After filling out the requested information, click "Sign in". System will navigate to the main page.
 
-Screenshot 3:
+Screenshot 2: post's comments button
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/comment.png)
+
+
+Screenshot 3: post's like button
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/like.png)
 This is the main page of the application.
 
-Screenshot 4:
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/comment.png)
+Screenshot 4: user register page
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/register.png)
+It is the interface of the register page, where users can fill out the email and new passwork following the demonstration.
 
+>>>>>>> 69b8120a81b385f66d57f40f06efff3d8f1dc406
 
 
 ### Part 3: Deployment
