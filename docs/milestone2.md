@@ -22,12 +22,16 @@ v) /user/like - users can like a post
 ### Screenshot
 
 Screenshot 1:
-
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/add%20new%20post.png)
 Screenshot 2:
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/register.png)
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/comment.png)
 Screenshot 3:
-
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/like.png)
 Screenshot 4:
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/register.png)
+Screenshot 5:
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/login.png)
+
 
 ### Part 3: Deployment
 
