@@ -24,17 +24,18 @@ v) /user/like - users can like a post
 Screenshot 1: user login page
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/Screenshot%20(250).png)
 
-Screenshot 2:
+
+Screenshot 2: post's comments button
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/comment.png)
 
-Screenshot 3:
+
+Screenshot 3: post's like button
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/like.png)
 
-Screenshot 4:
+
+Screenshot 4: user register page
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/register.png)
 
-Screenshot 5:
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshoots/login.png)
 
 
 ### Part 3: Deployment
