@@ -17,7 +17,7 @@ Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## APIs:
 GET endpoints:
-  '/login'
+  '/login' &nbsp;
   '/register'
   '/create-post'
   '/'
