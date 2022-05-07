@@ -16,6 +16,18 @@ Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 ## User Interface:
 
 ## APIs:
+GET endpoints:
+  '/login'
+  '/register'
+  '/create-post'
+  '/'
+  
+ POST endpoints:
+  '/login'
+  '/register'
+  '/logout'
+  '/create-post'
+  '/delete'
 
 ## Database:
 
