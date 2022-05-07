@@ -17,17 +17,17 @@ Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## APIs:
 GET endpoints:
-  '/login' &nbsp;
-  '/register'
-  '/create-post'
-  '/'
+  '/login'    renders login in page
+  '/register'   renders sign up page
+  '/create-post'    renders a form that allows user to input job details for new post
+  '/'   checks browser cookies and redirects to home page if user already logged in, returns to login page otherwise
   
  POST endpoints:
-  '/login'
-  '/register'
-  '/logout'
-  '/create-post'
-  '/delete'
+  '/login'    checks database to see if email and password is valid or not. Redirects to home page if valid.
+  '/register'   checks if user already exists or not. If not, then new user is created and added to database
+  '/logout'   clears cookie, logs user out, and redirects to login page
+  '/create-post'    takes job title and description and adds to database under the logged in user
+  '/delete'   deletes post if and only if post is created by the logged in user
 
 ## Database:
 
