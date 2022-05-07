@@ -43,14 +43,25 @@ TABLE `posts` {
   `updated_at` type: datetime (used to update post timestamp)
 }
 
-TABLE `users` (
+TABLE `users` {
   `id` type: int (serial of user),
   `name` type: varchar (saves username),
   `email` type: varchar (saves user email),
-  `password` type: varchar CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL (saves hashed passwords)
+  `password` type: varchar CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci (saves hashed passwords)
 }
 
 ## URL Routes/Mappings:
+Home page --> Login page if user not already logged in (no cookie found)
+Login page --> Register page using "register new account" link
+Register page --> Login page using "already registered" link
+Login page --> Home page if credentials are correct       
+Home page --> Create post page using "add new post" button
+Create post page --> Home page using "back button" on top left
+Create post page --> Home page using using "create post" button with successful post creation
+Home page --> Home page with "delete button" which removes a post that being deleted by user
+Home page --> Login page using logout button on top navbar (clears cookie)
+
+
 
 ## Authentication/Authorization:
 
