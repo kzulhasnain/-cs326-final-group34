@@ -5,6 +5,7 @@
 ## Semester: Spring 2022
 
 ## Overview:
+A website built by Umass students to make Job Posting and Shift Coverage convenient. We welcome partnerships with schools and companies to make the exchange of information easier. This website allows you to post jobs and shift covers. Users need to sign up and login in order post. Users can also delete their own posts, and logout as well. The app is deployed on heroku. All the information is saved in the heroku database. Heroku link: https://umassjobpostgrp34.herokuapp.com/
 
 ## Team Members:  
 Kazi Sadman Zul Hasnain&ensp;&ensp;&ensp;&ensp;&ensp;github profile: kzulhasnain  
