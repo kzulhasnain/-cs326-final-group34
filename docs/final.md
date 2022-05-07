@@ -64,6 +64,7 @@ Home page --> Login page using logout button on top navbar (clears cookie)
 
 
 ## Authentication/Authorization:
+While loggin in, the input email and password are cross checked with database. If email does not exist, invalid email error pops up. If email is valid but password is wrong, then invalid password error pops up. While registering if user name and email already exist in database, user already exist error pops up. All of these are checked manually using functions created in database.js. Passwords are hased before saving into database using bcrypt.
 
 ## Division of Labor:
 Kazi Sadman Zul Hasnain&ensp;&ensp;&ensp;&ensp;&ensp;back-end  
