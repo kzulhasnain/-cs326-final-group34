@@ -30,6 +30,25 @@ GET endpoints:
   '/delete'   deletes post if and only if post is created by the logged in user
 
 ## Database:
+ClearDB mySQL database is used from heroku add ons to save user and post data into 2 tables inside the database.
+
+TABLE `posts` {
+  `id` type: int (serial of user),
+  `title` type: varchar (saves job title),
+  `body` type: text (saves job description),
+  `user_id` type: int (saves id of the user),
+  `is_assigned` type: int (saves assigned user id),
+  `assigned_to` type: varchar (usually NULL),
+  `created_at` type: datetime (used to update post timestamp),
+  `updated_at` type: datetime (used to update post timestamp)
+}
+
+TABLE `users` (
+  `id` type: int (serial of user),
+  `name` type: varchar (saves username),
+  `email` type: varchar (saves user email),
+  `password` type: varchar CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL (saves hashed passwords)
+}
 
 ## URL Routes/Mappings:
 
