@@ -18,7 +18,7 @@ Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 ## APIs:
 GET endpoints:
 
-  &ensp;&ensp;'/login'    renders login in page
+  &ensp;&ensp;'/login'    ```renders login in page```
   
  &ensp;&ensp;'/register'   renders sign up page
   
