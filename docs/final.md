@@ -28,24 +28,24 @@ Screenshot 2: user register page
 This is the register page where users can sign up with new name, email, and password.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/signup%20detail.png)
 
-Screenshot 3: user register failed page
+Screenshot 3: user login failed page
 
-It is the interface of the register page, where users will received a failed notification if they enter something unexpected following the demonstration.
+It is the interface of the login page, where users will received a failed notification if they are not already registered.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/sign%20up%20failed.png)
 
-Screenshot 4: website mainpage
+Screenshot 4: website main page/home page
 
 This is the main page of the application. Below the web page logo lies the boxes with job infomation.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/mainpage.png)
 
 Screenshot 5: add post button
 
-This is the page of the add post where user can type theire shift post information.
+This is the create-post page where users input there Job title and description.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/addpost.png)
 
 Screenshot 6 add post button
 
-This is the one of the part in our mainpage that shows our website intro & logout button.
+Navbar in the home page that displays website description and logout button.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/website%20about.png)
 
 ## APIs:
