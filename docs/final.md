@@ -160,4 +160,4 @@ out of 100
 
     Heroku deployment - 15 pts (https://umassjobpostgrp34.herokuapp.com/)
 
-    final video - 15 pts ()
+    final video - 15 pts (see youtube playlist "team 34 ucover")
