@@ -15,6 +15,39 @@ Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## User Interface:
 
+=======
+
+Screenshot 1: user login page
+
+It is the log-in page for users who has already created an  account can insert the email and password set up in the register page. After filling out the requested information, click "Sign in". System will navigate to the main page.
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/signin.png)
+
+
+Screenshot 2: user register page
+
+It is the interface of the register page, where users can fill out the email and new passwork following the demonstration.
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/signup%20detail.png)
+
+Screenshot 3: user register failed page
+
+It is the interface of the register page, where users will received a failed notification if they enter something unexpected following the demonstration.
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/sign%20up%20failed.png)
+
+Screenshot 4: website mainpage
+
+This is the main page of the application. Below the web page logo lies the boxes with job infomation.
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/mainpage.png)
+
+Screenshot 5: add post button
+
+This is the page of the add post where user can type theire shift post information.
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/addpost.png)
+
+Screenshot 6 add post button
+
+This is the one of the part in our mainpage that shows our website intro & logout button.
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/website%20about.png)
+
 ## APIs:
 GET endpoints:
 
