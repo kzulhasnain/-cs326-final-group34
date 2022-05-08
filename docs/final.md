@@ -35,7 +35,7 @@ It is the interface of the login page, where users will received a failed notifi
 
 Screenshot 4: website home page
 
-In the home page we can see the job posts displaying the Job title, Owner of the post, and Job description. 
+In the home page we can see the job posts displaying the Job title, Owner of the post, and Job description. We can also see the Add post button used to add new posts.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/mainpage.png)
 
 Screenshot 5: add post button
