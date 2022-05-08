@@ -73,3 +73,6 @@ Baitong Zhao  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp; front
 Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;front-end
 
 ## Conclusion:
+
+We created this work shift webpage through the learning and practical application of cs 326. We learned about front-end and back-end in the course, including how to write html, css, javascript. how script interacts with html. How to make the front-end web page and the back-end server to establish linkage. And the creation, connection and management of database.
+We found that the most difficult part was to make the various components connected. For example, connecting the database to the web pages. We also found it difficult to communicate at work. It is hard to imagine how large companies assign work to programmers in a project. We hope that future courses will teach more efficient teamwork (including techniques for physical meetings and WFH). Honestly, after this project experience. We have serious doubts about work for home in technology companies. This can have a serious impact on people communication.
