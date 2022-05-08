@@ -20,33 +20,33 @@ Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 Screenshot 1: user login page
 
 It is the log-in page for users who has already created an  account can insert the email and password set up in the register page. After filling out the requested information, click "Sign in". System will navigate to the main page.
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/signin.png)
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/signin.png)
 
 
 Screenshot 2: user register page
 
 This is the register page where users can sign up with new name, email, and password.
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/signup%20detail.png)
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/signup%20detail.png)
 
 Screenshot 3: user login failed page
 
 It is the interface of the login page, where users will received a failed notification if they are not already registered.
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/sign%20up%20failed.png)
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/sign%20up%20failed.png)
 
 Screenshot 4: website home page
 
 In the home page we can see the job posts displaying the Job title, Owner of the post, and Job description. We can also see the Add post button used to add new posts.
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/mainpage.png)
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/mainpage.png)
 
 Screenshot 5: add post button
 
 This is the create-post page where users input there Job title and description.
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/addpost.png)
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/addpost.png)
 
 Screenshot 6 add post button
 
 Navbar in the home page that displays website description and logout button.
-![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/website%20about.png)
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/website%20about.png)
 
 ## APIs:
 GET endpoints:
