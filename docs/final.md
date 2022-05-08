@@ -20,23 +20,23 @@ GET endpoints:
 
   &ensp;&ensp;'/login'    ```renders login in page```
   
- &ensp;&ensp;'/register'   renders sign up page
+ &ensp;&ensp;'/register'   ```renders sign up page```
   
-&ensp;&ensp;'/create-post'    renders a form that allows user to input job details for new post
+&ensp;&ensp;'/create-post'    ```renders a form that allows user to input job details for new post```
   
-  &ensp;&ensp;'/'   checks browser cookies and redirects to home page if user already logged in, returns to login page otherwise
+  &ensp;&ensp;'/'   ```checks browser cookies and redirects to home page if user already logged in, returns to login page otherwise```
   
  POST endpoints:
  
-  &ensp;&ensp;'/login'    checks database to see if email and password is valid or not. Redirects to home page if valid.
+  &ensp;&ensp;'/login'    ```checks database to see if email and password is valid or not. Redirects to home page if valid.```
   
-  &ensp;&ensp;'/register'   checks if user already exists or not. If not, then new user is created and added to database
+  &ensp;&ensp;'/register'   ```checks if user already exists or not. If not, then new user is created and added to database```
   
-  &ensp;&ensp;'/logout'   clears cookie, logs user out, and redirects to login page
+  &ensp;&ensp;'/logout'   ```clears cookie, logs user out, and redirects to login page```
  
-  &ensp;&ensp;'/create-post'    takes job title and description and adds to database under the logged in user
+  &ensp;&ensp;'/create-post'    ```takes job title and description and adds to database under the logged in user```
   
-  &ensp;&ensp;'/delete'   deletes post if and only if post is created by the logged in user
+  &ensp;&ensp;'/delete'   ```deletes post if and only if post is created by the logged in user```
 
 ## Database:
 ClearDB mySQL database is used from heroku add ons to save user and post data into 2 tables inside the database.
