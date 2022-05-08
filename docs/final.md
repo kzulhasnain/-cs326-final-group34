@@ -17,49 +17,76 @@ Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## APIs:
 GET endpoints:
-  '/login'    renders login in page
-  '/register'   renders sign up page
-  '/create-post'    renders a form that allows user to input job details for new post
-  '/'   checks browser cookies and redirects to home page if user already logged in, returns to login page otherwise
+
+  &ensp;&ensp;'/login'    renders login in page
+  
+ &ensp;&ensp;'/register'   renders sign up page
+  
+&ensp;&ensp;'/create-post'    renders a form that allows user to input job details for new post
+  
+  &ensp;&ensp;'/'   checks browser cookies and redirects to home page if user already logged in, returns to login page otherwise
   
  POST endpoints:
-  '/login'    checks database to see if email and password is valid or not. Redirects to home page if valid.
-  '/register'   checks if user already exists or not. If not, then new user is created and added to database
-  '/logout'   clears cookie, logs user out, and redirects to login page
-  '/create-post'    takes job title and description and adds to database under the logged in user
-  '/delete'   deletes post if and only if post is created by the logged in user
+  &ensp;&ensp;'/login'    checks database to see if email and password is valid or not. Redirects to home page if valid.
+  
+  &ensp;&ensp;'/register'   checks if user already exists or not. If not, then new user is created and added to database
+  
+  &ensp;&ensp;'/logout'   clears cookie, logs user out, and redirects to login page
+ 
+  &ensp;&ensp;'/create-post'    takes job title and description and adds to database under the logged in user
+  
+  &ensp;&ensp;'/delete'   deletes post if and only if post is created by the logged in user
 
 ## Database:
 ClearDB mySQL database is used from heroku add ons to save user and post data into 2 tables inside the database.
 
 TABLE `posts` {
   `id` type: int (serial of user),
-  `title` type: varchar (saves job title),
-  `body` type: text (saves job description),
-  `user_id` type: int (saves id of the user),
-  `is_assigned` type: int (saves assigned user id),
-  `assigned_to` type: varchar (usually NULL),
-  `created_at` type: datetime (used to update post timestamp),
-  `updated_at` type: datetime (used to update post timestamp)
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`title` type: varchar (saves job title),
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`body` type: text (saves job description),
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`user_id` type: int (saves id of the user),
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`is_assigned` type: int (saves assigned user id),
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`assigned_to` type: varchar (usually NULL),
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`created_at` type: datetime (used to update post timestamp),
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`updated_at` type: datetime (used to update post timestamp)
 }
 
 TABLE `users` {
   `id` type: int (serial of user),
-  `name` type: varchar (saves username),
-  `email` type: varchar (saves user email),
-  `password` type: varchar CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci (saves hashed passwords)
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`name` type: varchar (saves username),
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`email` type: varchar (saves user email),
+  
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;`password` type: varchar CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci (saves hashed passwords)
 }
 
 ## URL Routes/Mappings:
 Home page --> Login page if user not already logged in (no cookie found)
+
 Login page --> Register page using "register new account" link
+
 Register page --> Login page using "already registered" link
+
 Login page --> Home page if credentials are correct       
+
 Home page --> Create post page using "add new post" button
+
 Create post page --> Home page using "back button" on top left
+
 Create post page --> Home page using using "create post" button with successful post creation
+
 Home page --> Home page with "delete button" which removes a post that being deleted by user
+
 Home page --> Login page using logout button on top navbar (clears cookie)
+
 
 
 
@@ -70,7 +97,7 @@ While loggin in, the input email and password are cross checked with database. I
 Kazi Sadman Zul Hasnain&ensp;&ensp;&ensp;&ensp;&ensp;back-end  
 Kazi Zeedan Jul Kawnain&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;back-end  
 Baitong Zhao  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp; front-end   
-Runyu Xi&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;front-end
+Runyu Xi&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;front-end
 
 ## Conclusion:
 
