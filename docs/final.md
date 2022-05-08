@@ -43,7 +43,12 @@ Screenshot 5: add post button
 This is the create-post page where users input there Job title and description.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/addpost.png)
 
-Screenshot 6: add post button
+Screenshot 6: delete post button
+
+This is the delete-post button where users delete there Job shift post. User cannot deltes post which is post by others.
+![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/delete.png)
+
+Screenshot 7: about website & logout
 
 Navbar in the home page that displays website description and logout button.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/website%20about.png)
