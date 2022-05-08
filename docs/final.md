@@ -27,6 +27,7 @@ GET endpoints:
   &ensp;&ensp;'/'   checks browser cookies and redirects to home page if user already logged in, returns to login page otherwise
   
  POST endpoints:
+ 
   &ensp;&ensp;'/login'    checks database to see if email and password is valid or not. Redirects to home page if valid.
   
   &ensp;&ensp;'/register'   checks if user already exists or not. If not, then new user is created and added to database
