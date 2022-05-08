@@ -45,7 +45,7 @@ This is the create-post page where users input there Job title and description.
 
 Screenshot 6: delete post button
 
-This is the delete-post button where users delete there Job shift post. User cannot deltes post which is post by others.
+This is the delete-post button where users delete their Job post. User cannot delete a post which is posted by others.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/delete.png)
 
 Screenshot 7: about website & logout
