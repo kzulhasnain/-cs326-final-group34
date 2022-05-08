@@ -141,3 +141,23 @@ Runyu Xi&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 ## Conclusion:
 
 We created this shift coverage website through the learning and practical application of cs326. We learned about front-end and back-end in the course, including how to write html, css, javascript. We also learned how to link the front-end web page and the back-end server together with the creation, connection, and management of database. We found that the most difficult part was to make the various components connected. For example, connecting web page inputs to the app and app to the database. We also found it difficult to communicate at work with everyone busy with their own schedules. It is hard to imagine how large companies assign work to programmers in a project. We hope that future courses will teach more efficient teamwork (including techniques for physical meetings and WFH). Overall we had fun building this website and we are hopeful that this website will become very useful for students and staffs who find it difficult to connect and communicate about job positngs.
+
+
+
+## Grading rubric:
+
+out of 100
+
+    login - 15 pts (displayed when you first visit website)
+
+    register - 15 pts (displayed when you first visit website, belowed the signin button, click to view create account)
+
+    logout - 10 pts (logout inside the navbar. inside the top of left button)
+
+    make a post - 15 pts (add post button, locate on the top part of webpage, blue, Add New Post button)
+
+    delete a post - 15 pts (once you create a post you can delete it)
+
+    Heroku deployment - 15 pts (https://umassjobpostgrp34.herokuapp.com/)
+
+    final video - 15 pts ()
