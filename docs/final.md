@@ -43,7 +43,7 @@ Screenshot 5: add post button
 This is the create-post page where users input there Job title and description.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/addpost.png)
 
-Screenshot 6 add post button
+Screenshot 6: add post button
 
 Navbar in the home page that displays website description and logout button.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/screenshots3/website%20about.png)
