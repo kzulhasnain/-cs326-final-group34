@@ -25,7 +25,7 @@ It is the log-in page for users who has already created an  account can insert t
 
 Screenshot 2: user register page
 
-It is the interface of the register page, where users can fill out the email and new passwork following the demonstration.
+This is the register page where users can sign up with new name, email, and password.
 ![alt text](https://github.com/kzulhasnain/cs326-final-group34/blob/main/docs/signup%20detail.png)
 
 Screenshot 3: user register failed page
